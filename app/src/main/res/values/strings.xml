@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash App</string>
+    <string name="app_main">Main Activity</string>
+</resources>
